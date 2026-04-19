@@ -1,0 +1,10 @@
+Thumbs.db
+.DS_Store
+
+node_modules/
+
+*.exe
+*.msi
+*.zip
+*.7z
+*.rar
