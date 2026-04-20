@@ -1,6 +1,6 @@
 # Dogdou Guide
 
-[Back to README](../README.md) | [中文指南](./guide.zh-CN.md) | [English Changelog](./changelog.en.md)
+[Back to README](../README.md) | [Chinese Guide](./guide.zh-CN.md) | [English Changelog](./changelog.en.md)
 
 ## Installation
 
@@ -58,4 +58,4 @@ Real UI capture:
 3. Set `Work Directory`, for example `%USERPROFILE%`.
 4. Click `Create Process`.
 5. Click `Link Session` to enter the environment.
-6. Use `Resume Audio` if your workflow needs audio recovery.
+6. For audio handling, use `Reuse Audio` before starting a new session, and use `Resume Audio` when you need to restore audio output.
